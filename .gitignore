@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore README.md
+README.md
+
+# Ignore LICENSE
+LICENSE
+
+# Ignore screenshots folder
+screenshots/
