@@ -1,5 +1,9 @@
 A clean, calm, and minimal profile page template with blur card, avatar, bio, and icon links.
 
+## 📌 Screenshots:
+![1](assets/screenshots/screenshot1.png)<br/>
+---
+![2](assets/screenshots/screenshot2.png)
 
 ## 📘 Features
 - Clean and minimal design
