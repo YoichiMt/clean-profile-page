@@ -1,9 +1,5 @@
 A clean, calm, and minimal profile page template with blur card, avatar, bio, and icon links.
 
-## 📌 Screenshots:
-![1](assets/screenshots/screenshot1.png)<br/>
----
-![2](assets/screenshots/screenshot2.png)
 
 ## 📘 Features
 - Clean and minimal design
@@ -47,3 +43,8 @@ This code/page made by **YoichiMt** and is licensed under the GNU General Public
 You are free to use, modify, and distribute this code, provided that all copies and derivative works are also licensed under GPL-3.0.<br/>
 Any use must include proper attribution to the original author.<br/>
 The author cannot be held responsible for any damages or issues resulting from the use of this code by users.
+
+## 📌 Screenshots:
+![1](screenshots/screenshot1.png)<br/>
+---
+![2](screenshots/screenshot2.png)
