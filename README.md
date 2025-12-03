@@ -48,3 +48,5 @@ The author cannot be held responsible for any damages or issues resulting from t
 ![1](screenshots/screenshot1.png)<br/>
 ---
 ![2](screenshots/screenshot2.png)
+
+© 2025 YoichiMt. All rights reserved.
